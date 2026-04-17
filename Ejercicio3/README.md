@@ -137,7 +137,7 @@ Ver archivo `asdr_ej3.py` para la implementación completa.
 ### Uso
 
 ```bash
-python asdr_ej3.py
+python asdr.py
 ```
 
 ### Notas de implementación
