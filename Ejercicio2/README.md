@@ -97,7 +97,7 @@ Por la recursividad mutua, S, A y B terminan compartiendo todos los terminales.
 
 ## e) Implementación del ASDR
 
-Ver archivo `asdr_ej2.py` para la implementación completa.
+Ver archivo `asdr.py` para la implementación completa.
 
 ### Uso
 
